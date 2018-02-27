@@ -1,5 +1,5 @@
-# [MinecraftFuns.github.io](http://minecraftfuns.ml)
-## Branch:[FunBlog](http://funinfo.tk)
+# [MinecraftFuns Blog(minecraftfuns.github.io)](http://minecraftfuns.ml)
+## Branch:[FunBlog(minecraftfuns.github.io/FunBlog)](http://funinfo.tk)
 My Blog based on GitHub Pages
 
 Please also visit:
